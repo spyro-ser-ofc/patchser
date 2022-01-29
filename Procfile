@@ -1,1 +1,1 @@
-worker: npm install && npm install @adiwajshing/baileys && node .
+worker: npm install && npm install @adiwajshing/baileys && npm i file-type && npm i awesomephonenumber@latest && npm 
